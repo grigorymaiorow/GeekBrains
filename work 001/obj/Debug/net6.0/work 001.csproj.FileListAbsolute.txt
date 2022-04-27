@@ -1,0 +1,15 @@
+/Users/grigorij/GB домашние задания/work 001/bin/Debug/net6.0/work 001
+/Users/grigorij/GB домашние задания/work 001/bin/Debug/net6.0/work 001.deps.json
+/Users/grigorij/GB домашние задания/work 001/bin/Debug/net6.0/work 001.runtimeconfig.json
+/Users/grigorij/GB домашние задания/work 001/bin/Debug/net6.0/work 001.dll
+/Users/grigorij/GB домашние задания/work 001/bin/Debug/net6.0/work 001.pdb
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.csproj.AssemblyReference.cache
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.AssemblyInfoInputs.cache
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.AssemblyInfo.cs
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.csproj.CoreCompileInputs.cache
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.dll
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/refint/work 001.dll
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.pdb
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/work 001.genruntimeconfig.cache
+/Users/grigorij/GB домашние задания/work 001/obj/Debug/net6.0/ref/work 001.dll
